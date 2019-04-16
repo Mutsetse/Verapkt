@@ -42,3 +42,5 @@ ORDER BY DBName, ObjectName
 ;
 
 DROP TABLE #Results;
+
+--Drop table #Results
